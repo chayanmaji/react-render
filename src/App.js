@@ -1,8 +1,8 @@
+import { UseState } from './components/UseState/useState'
+
 function App() {
   return (
-    <div>
-      React render demo
-    </div>
+    <UseState/>
   );
 }
 
