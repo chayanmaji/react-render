@@ -1,8 +1,10 @@
-import { UseReducer } from './components/UseReducer/useReducer'
+import { ParentTwo } from './components/Optimization/ParentTwo'
 
 function App() {
   return (
-    <UseReducer/>
+    <div>
+      <ParentTwo/>
+   </div>
   );
 }
 
