@@ -1,8 +1,8 @@
-import { UseState } from './components/UseState/useState'
+import { UseReducer } from './components/UseReducer/useReducer'
 
 function App() {
   return (
-    <UseState/>
+    <UseReducer/>
   );
 }
 
